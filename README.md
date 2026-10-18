@@ -49,4 +49,4 @@ Captured and analyzed both encrypted (HTTPS, port 443) and unencrypted (HTTP, po
 
 This demonstrates how TLS/SSL encryption protects data in transit even when packets are successfully intercepted.
 
-Author: [Your Name] · Video explanation: [LinkedIn link]
+Author: Noor ul Aien
